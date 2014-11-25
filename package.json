@@ -1,14 +1,18 @@
 {
   "name": "helloworld",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Curso",
   "main": "hello-html.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Rodrigo Reiser",
   "license": "ISC",
   "dependencies": {
     "mongoose": "^3.8.19"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/RodrigoReiser/cursomean"
   }
 }
